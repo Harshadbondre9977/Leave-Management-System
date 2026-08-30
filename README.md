@@ -140,26 +140,6 @@ Open the application in your browser at:
 http://127.0.0.1:8000/
 ```
 
-## Screenshots
-
-Add screenshots of the main pages here.
-
-For example:
-
-* Login page
-* Employee dashboard
-* Leave application page
-* Manager dashboard
-* Leave approval page
-* Admin/HR dashboard
-
-```markdown
-![Login Page](screenshots/login.png)
-
-![Dashboard](screenshots/dashboard.png)
-
-![Leave Management](screenshots/leave-management.png)
-```
 
 ## What I Worked On
 
@@ -205,7 +185,7 @@ The project can be further improved with additional features and UI enhancements
 
 ## Credits
 
-This project is based on the original **Leave Management System** repository by **Haresh-Dhasade**.
+This project is based on the original **Leave Management System** repository by **Harshad Bondre**.
 
 Original repository:
 
